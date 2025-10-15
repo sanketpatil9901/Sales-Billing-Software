@@ -1,48 +1,43 @@
-Sales & Billing Management System
+🛒 Sales & Billing Management System
 
-The Sales & Billing Management System is a full-stack web application designed to automate and streamline billing processes for small to medium retail businesses. It allows businesses to manage products, categories, sales, and receipts efficiently, while providing secure user authentication and role-based authorization.
+A full-stack web application designed to automate billing and sales processes for retail businesses. Streamline product management, track daily sales, handle multiple payment methods, and generate receipts securely.
 
-Features
-Core Features
+✨ Features
+🔐 Secure Authentication
 
-User Authentication & Authorization
+JWT-secured user login with role-based access (Admin / User).
 
-Secure login system using JWT tokens.
+Protects sensitive data and ensures authorized operations only.
 
-Role-based access control (Admin / User).
+📦 Product & Category Management
 
-Product & Category Management
+Add, update, and delete products dynamically.
 
-Add, edit, or remove products.
+Organize products under different categories for easier tracking.
 
-Categorize products for easier management.
+💳 Billing & Payments
 
-Billing & Multi-Payment Support
+Generate bills quickly for customers.
 
-Generate bills for customers.
+Accept Cash or UPI payments.
 
-Accept payments via Cash or UPI.
+Automatic tax calculation for accurate billing.
 
-Automatic tax calculation for orders.
+📊 Sales Tracking
 
-Sales Tracking
+Real-time daily sales reports and order history.
 
-View daily sales reports and order history.
+Monitor revenue and product sales trends.
 
-Real-time updates of sales and inventory.
+🧾 Receipt Management
 
-Receipt Management
+Generate print-ready digital receipts with formatted output.
 
-Generate print-ready digital receipts.
+Maintain organized transaction records.
 
-Maintain organized records of all transactions.
-
-Technologies Used
-
-Frontend: HTML, CSS, JavaScript, React
-
-Backend: Spring Boot, REST APIs, Spring Security (JWT)
-
-Database: MySQL
-
-Version Control: Git & GitHub
+🛠️ Technology Stack
+Layer	Technology
+Frontend	HTML, CSS, JavaScript, React
+Backend	Java, Spring Boot, REST APIs, Spring Security (JWT)
+Database	MySQL
+Version Control	Git, GitHub
